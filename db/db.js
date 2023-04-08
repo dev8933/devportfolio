@@ -1,17 +1,16 @@
 export const bio = [
   "Hello there &#128075;",
   "I'm Devesh Giri, a Embedded Software Engineer at Carrier India with a specialization embedded systems | RTOS | C/C++ | Linux. I have a passion for embedded tech and consider myself a curious and enthusiastic developer.",
-  "Apart from coding, I love to read, Blog, and travel.",
-  "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
+  "Apart from coding, I love to read, Blog, and travel.","As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
 ];
 
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    skillName: "C/C++ Language",
     color: "1",
-    percentage: "80",
+    percentage: "75",
   },
   {
     title: "Frameworks/Libraries",
@@ -27,7 +26,7 @@ export const skills = [
   },
   {
     title: "Version Control",
-    skillName: "GitHub, JIRA, Bitbucket",
+    skillName: "GitHub, JIRA, Bitbucket, PVCS",
     color: "7",
     percentage: "70",
   },

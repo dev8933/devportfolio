@@ -1,7 +1,7 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Vinay Somawat, a Software Engineer at Biofourmis India with a specialization in JavaScript Applications. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
-  "Apart from coding, I love to read, listen to music, and travel.",
+  "I'm Devesh Giri, a Embedded Software Engineer at Carrier India with a specialization embedded systems | RTOS | C/C++ | Linux. I have a passion for embedded tech and consider myself a curious and enthusiastic developer.",
+  "Apart from coding, I love to read, Blog, and travel.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
 ];
